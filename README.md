@@ -100,4 +100,4 @@ Here are some ideas to get you started:
 ⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⢯⣝⡫⠢⣀⠈⠌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡐⣟⣾⠇⣔⡡⢔⡳⠀⠌⠁⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⣿⣿⣿⣿⣖⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⡾⡢⡁⡓⠈⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡳⣿⣼⣇⠐⠺⢁⢀⠌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠐⠠⠀
 
-[For anyone wondering, this is what the ASCII art is of](<img width="595" height="836" alt="image" src="https://github.com/user-attachments/assets/95e97aa7-dbca-4886-8a82-51dd591c396e" />)
+[For anyone wondering, this is what the ASCII art is of](https://github.com/user-attachments/assets/95e97aa7-dbca-4886-8a82-51dd591c396e)
