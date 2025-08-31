@@ -100,4 +100,4 @@ Here are some ideas to get you started:
 ⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⢯⣝⡫⠢⣀⠈⠌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡐⣟⣾⠇⣔⡡⢔⡳⠀⠌⠁⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⣿⣿⣿⣿⣖⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⡾⡢⡁⡓⠈⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡳⣿⣼⣇⠐⠺⢁⢀⠌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠐⠠⠀
 
-[For anyone wondering, this is what the ASCII art looks like](https://github.com/user-attachments/assets/95e97aa7-dbca-4886-8a82-51dd591c396e)
+[For anyone wondering, this is what the ASCII art looks like](https://github.com/user-attachments/assets/0cb0e37f-ddbb-4e1a-8e4f-42ce52317dbc)
