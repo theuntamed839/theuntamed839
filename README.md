@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **theuntamed839/theuntamed839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ⠀⠀⠀⠀⠁⢀⠀⠀⠀⠠⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠠⠀⠀⠀⠀⠄⠀⠀⠀⢀⠐⡀⠂⠄⠡⡂⠅⠀⢨⢂⠆⡘⡑⡁⡘⠪⠰⡪⡪⢎⣪⢪⢕⢕⢕⡪⢞⢜⣱⢧⢏⠽
 ⠀⠀⠀⠠⠠⠀⠠⠀⠐⠀⠠⠁⠀⠐⠈⠀⠀⠈⠀⠐⠐⠀⠐⠠⠠⠀⠀⠂⠀⠂⡀⠁⠠⠀⠈⠐⡄⠠⢂⠐⠊⢄⠁⠄⡘⠈⠃⡠⢃⠜⠙⢑⣢⡡⢪⡳⡕⢕⡳⡮⢥⢪⣣⡧⢧⣜⢝⢳
 ⠀⠀⠀⠀⠈⠀⠂⠀⠀⠀⠀⠠⠀⠀⢀⠀⡀⠄⠀⠀⠐⠁⠈⠄⠀⠁⠀⠀⠀⠐⢀⠄⠀⠀⡀⠐⠠⠀⢂⢈⡂⠌⠡⠡⠥⠆⢂⠣⢃⡪⠡⠰⢌⢎⢕⢎⡫⡮⡪⢕⠽⣓⢪⢞⠶⣓⡵⣫
@@ -101,3 +102,5 @@ Here are some ideas to get you started:
 ⣿⣿⣿⣿⣖⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⡾⡢⡁⡓⠈⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡳⣿⣼⣇⠐⠺⢁⢀⠌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠐⠠⠀
 
 [For anyone wondering, this is what the ASCII art looks like](https://github.com/user-attachments/assets/0cb0e37f-ddbb-4e1a-8e4f-42ce52317dbc)
+
+-->
